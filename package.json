@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/lalithapelluri6/amazon-app#readme",
   "dependencies": {
+    "inquirer": "^6.2.2",
     "mysql": "^2.16.0"
   }
 }
