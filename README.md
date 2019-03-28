@@ -7,3 +7,6 @@ to place an order from the Bamazon store.
  owed (but no credit card number is requested).
 ![Screenshot (21)](https://user-images.githubusercontent.com/32177829/55134344-c0916e00-50e5-11e9-90ef-af48d41c1332.png)
 ![Screenshot (23)](https://user-images.githubusercontent.com/32177829/55134329-b7a09c80-50e5-11e9-9d14-08061d2349c5.png)
+
+![Screenshot (25)](https://user-images.githubusercontent.com/32177829/55134468-1f56e780-50e6-11e9-9989-1049bd5144e1.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/32177829/55134475-241b9b80-50e6-11e9-8ff2-8d579a8f053f.png)
